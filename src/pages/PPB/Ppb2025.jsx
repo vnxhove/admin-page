@@ -1,5 +1,5 @@
 import PageMeta from "../../components/common/PageMeta";
-import TableKkprl from "../../components/tables/AdminTables/TableKKPRL";
+import TableKkprl from "../../components/tables/AdminTables/TableKkprl";
 import Button from "../../components/ui/button/Button";
 
 export default function Ppb2025() {
