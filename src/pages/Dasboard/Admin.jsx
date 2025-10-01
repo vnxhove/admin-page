@@ -1,9 +1,5 @@
-import { Link } from "react-router-dom";
-import React, { useEffect, useState } from "react";
-import API from "../../api-server";
 import PageMeta from "../../components/common/PageMeta";
-import TableKkprl from "../../components/tables/AdminTables/TableKKPRL";
-import Button from "../../components/ui/button/Button";
+import TableKkprl from "../../components/tables/AdminTables/TableKkprl";
 
 export default function Admin() {
   return (
